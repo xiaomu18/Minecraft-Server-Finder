@@ -8,4 +8,6 @@ NoNoNo, 你需要一个查找更为广泛，更为简洁的 Minecraft Server Fin
 扫描这世界上所有 IP 地址上的 25565 端口，使每一个服务器都被你发现。
 （虽然有些私人服务器可能不基于 25565 端口，但我设计它的初心是发现大型和正规的服务器）
 
+也许，等你完成扫描时，你已经不知道要玩哪个了，真是太多了，哈哈哈
+
 Let's Find all the Minecraft servers in the world ~
